@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" attributeFormDefault="unqualified">
+    <xsd:annotation>
+        <xsd:documentation xml:lang="en">
+            Assignment 3 - Persons schema
+        </xsd:documentation>
+    </xsd:annotation>
+
+    <xsd:element name="Persons" type="PersonsType"/>
+
+    <xsd:complexType name="PersonsType">
+        <xsd:sequence>
+            <xsd:element name="Person" type="PersonDetails" minOccurs="1" maxOccurs="unbounded"/>
+        </xsd:sequence>
+    </xsd:complexType>
+
+    <xsd:complexType name="PersonDetails">
+        <xsd:sequence>
+            <xsd:element name="Name" type="NameType" minOccurs="1" maxOccurs="1"/>
+            <xsd:element name="Credential" type="CredentialDetails" minOccurs="1" maxOccurs="1"/>
+            <xsd:element name="Phone" type="PhoneType" minOccurs="1" maxOccurs="1"/>
+            <xsd:element name="Category" type="CategoryType" minOccurs="1" maxOccurs="1"/>
+        </xsd:sequence>
+    </xsd:complexType>
+
+    <xsd:complexType name="NameType">
+        <xsd:sequence>
+            <xsd:element name="First" type="xsd:string" minOccurs="1" maxOccurs="1"/>
+            <xsd:element name="Last" type="xsd:string" minOccurs="1" maxOccurs="1"/>
+        </xsd:sequence>
+    </xsd:complexType>
+
+    <xsd:complexType name="CredentialDetails">
+        <xsd:sequence>
+            <xsd:element name="Id" type="xsd:string" minOccurs="1" maxOccurs="1"/>
+            <xsd:element name="Password" type="PasswordType" minOccurs="1" maxOccurs="1"/>
+        </xsd:sequence>
+    </xsd:complexType>
+
+    <xsd:complexType name="PasswordType">
+        <xsd:simpleContent>
+            <xsd:extension base="xsd:string">
+                <xsd:attribute name="Encryption" type="xsd:string" use="required">
+                </xsd:attribute>
+            </xsd:extension>
+        </xsd:simpleContent>
+    </xsd:complexType>
+
+    <xsd:complexType name="PhoneType">
+        <xsd:sequence>
+            <xsd:element name="Work" type="ContactNumberType" minOccurs="1" maxOccurs="1"></xsd:element>
+            <xsd:element name="Cell" type="ContactNumberType" minOccurs="1" maxOccurs="1"></xsd:element>
+        </xsd:sequence>
+    </xsd:complexType>
+    <xsd:complexType name="ContactNumberType">
+       <xsd:simpleContent>
+           <xsd:extension base="PhoneNumberType">
+               <xsd:attribute name="Provider" use="optional"></xsd:attribute>
+           </xsd:extension>
+       </xsd:simpleContent>
+    </xsd:complexType>
+
+    <!-- Define the allowed format for the Phone number with a regular exp. -->
+    <xsd:simpleType name="PhoneNumberType">
+        <xsd:restriction base="xsd:string">
+            <xsd:pattern value="\d{10}"/>
+        </xsd:restriction>
+    </xsd:simpleType>
+
+    <xsd:simpleType name="CategoryType">
+       <xsd:restriction base = "xsd:string">
+           <xsd:enumeration value="Friend"></xsd:enumeration>
+           <xsd:enumeration value="Family"></xsd:enumeration>
+           <xsd:enumeration value="Work"></xsd:enumeration>
+       </xsd:restriction>
+    </xsd:simpleType>
+
+</xsd:schema>

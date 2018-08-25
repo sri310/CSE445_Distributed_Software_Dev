@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Persons>
+    <Person>
+        <Name>
+            <First>John</First>
+            <Last>Doe</Last>
+        </Name>
+        <Credential>
+            <Id>jdoe</Id>
+            <Password Encryption = "yes">xyz</Password>
+        </Credential>
+        <Phone>
+            <Work>4809650000</Work>
+            <Cell Provider = "ANT">4801234567</Cell>
+        </Phone>
+        <Category>Friend</Category>
+    </Person>
+    <Person>
+        <Name>
+            <First>Jane</First>
+            <Last>Does</Last>
+        </Name>
+        <Credential>
+            <Id>jdol</Id>
+            <Password Encryption = "No">xyz</Password>
+        </Credential>
+        <Phone>
+            <Work>4809650001</Work>
+            <Cell Provider = "ANT">4801234597</Cell>
+        </Phone>
+        <Category>Friend</Category>
+    </Person>
+    <Person>
+        <Name>
+            <First>Jill</First>
+            <Last>Dawson</Last>
+        </Name>
+        <Credential>
+            <Id>jdawsl</Id>
+            <Password Encryption = "Yes">xyzjdks</Password>
+        </Credential>
+        <Phone>
+            <Work>4809650041</Work>
+            <Cell Provider = "TMoboile">4801245597</Cell>
+        </Phone>
+        <Category>Friend</Category>
+    </Person>
+    <Person>
+        <Name>
+            <First>Hannah</First>
+            <Last>Montana</Last>
+        </Name>
+        <Credential>
+            <Id>hMontana</Id>
+            <Password Encryption = "Yes">xdjfgdks</Password>
+        </Credential>
+        <Phone>
+            <Work>4809450041</Work>
+            <Cell>4801245578</Cell>
+        </Phone>
+        <Category>Friend</Category>
+    </Person>
+    <Person>
+        <Name>
+            <First>Janani</First>
+            <Last>Swaminathan</Last>
+        </Name>
+        <Credential>
+            <Id>jSwami</Id>
+            <Password Encryption = "Yes">jfdg</Password>
+        </Credential>
+        <Phone>
+            <Work>4809340041</Work>
+            <Cell>4801245908</Cell>
+        </Phone>
+        <Category>Friend</Category>
+    </Person>
+    <Person>
+        <Name>
+            <First>Kaushik</First>
+            <Last>Swaminathan</Last>
+        </Name>
+        <Credential>
+            <Id>kSwam</Id>
+            <Password Encryption = "Yes">fgj</Password>
+        </Credential>
+        <Phone>
+            <Work>4808940041</Work>
+            <Cell>4801241208</Cell>
+        </Phone>
+        <Category>Family</Category>
+    </Person>
+    <Person>
+        <Name>
+            <First>Srinidhi</First>
+            <Last>Sridharan</Last>
+        </Name>
+        <Credential>
+            <Id>sSridh</Id>
+            <Password Encryption = "NO">dsjf</Password>
+        </Credential>
+        <Phone>
+            <Work>4808940045</Work>
+            <Cell>4901441208</Cell>
+        </Phone>
+        <Category>Family</Category>
+    </Person>
+    <Person>
+        <Name>
+            <First>Ryan</First>
+            <Last>Reynolds</Last>
+        </Name>
+        <Credential>
+            <Id>rReynolds</Id>
+            <Password Encryption = "yes">dsjbf</Password>
+        </Credential>
+        <Phone>
+            <Work>4808948945</Work>
+            <Cell>4901445608</Cell>
+        </Phone>
+        <Category>Family</Category>
+    </Person>
+    <Person>
+        <Name>
+            <First>Harry</First>
+            <Last>Potter</Last>
+        </Name>
+        <Credential>
+            <Id>hPotter</Id>
+            <Password Encryption = "yes">fhhfg</Password>
+        </Credential>
+        <Phone>
+            <Work Provider="Verizon">4808748945</Work>
+            <Cell Provider="Sprint">4901445008</Cell>
+        </Phone>
+        <Category>Family</Category>
+    </Person>
+    <Person>
+        <Name>
+            <First>Hari</First>
+            <Last>Haran</Last>
+        </Name>
+        <Credential>
+            <Id>hHaran</Id>
+            <Password Encryption = "yes">fhdgjb</Password>
+        </Credential>
+        <Phone>
+            <Work Provider="Verizon">4808378945</Work>
+            <Cell Provider="TMobile">4901435607</Cell>
+        </Phone>
+        <Category>Family</Category>
+    </Person>
+    <Person>
+        <Name>
+            <First>Courtney</First>
+            <Last>Shobert</Last>
+        </Name>
+        <Credential>
+            <Id>cShobert</Id>
+            <Password Encryption = "yes">fhdfdgjhb</Password>
+        </Credential>
+        <Phone>
+            <Work Provider="Verizon">4808379045</Work>
+            <Cell Provider="TMobile">4901408607</Cell>
+        </Phone>
+        <Category>Work</Category>
+    </Person>
+    <Person>
+        <Name>
+            <First>Laura</First>
+            <Last>Zafirakis</Last>
+        </Name>
+        <Credential>
+            <Id>lZaf</Id>
+            <Password Encryption = "yes">fhdferetb</Password>
+        </Credential>
+        <Phone>
+            <Work Provider="Verizon">4802379245</Work>
+            <Cell Provider="ANT">4901208207</Cell>
+        </Phone>
+        <Category>Work</Category>
+    </Person>
+    <Person>
+        <Name>
+            <First>Amy</First>
+            <Last>Pate</Last>
+        </Name>
+        <Credential>
+            <Id>aPate</Id>
+            <Password Encryption = "yes">fhdfergfjdhtb</Password>
+        </Credential>
+        <Phone>
+            <Work Provider="ANT">4802319145</Work>
+            <Cell Provider="ANT">4911208217</Cell>
+        </Phone>
+        <Category>Work</Category>
+    </Person>
+    <Person>
+        <Name>
+            <First>Joni</First>
+            <Last>Wang</Last>
+        </Name>
+        <Credential>
+            <Id>jWang</Id>
+            <Password Encryption = "yes">fhdffjdtb</Password>
+        </Credential>
+        <Phone>
+            <Work Provider="Sprint">4802419445</Work>
+            <Cell Provider="Sprint">4911248417</Cell>
+        </Phone>
+        <Category>Work</Category>
+    </Person>
+    <Person>
+        <Name>
+            <First>Cynthia</First>
+            <Last>Garrett</Last>
+        </Name>
+        <Credential>
+            <Id>cGar</Id>
+            <Password Encryption = "yes">fyupiopfjdtb</Password>
+        </Credential>
+        <Phone>
+            <Work Provider="Verizon">4502419545</Work>
+            <Cell Provider="Sprint">4511548417</Cell>
+        </Phone>
+        <Category>Work</Category>
+    </Person>
+</Persons>
+
+

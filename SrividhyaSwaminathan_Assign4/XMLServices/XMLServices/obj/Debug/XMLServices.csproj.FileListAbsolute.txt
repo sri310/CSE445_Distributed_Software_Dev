@@ -1,0 +1,7 @@
+C:\Users\srividhya\source\repos\XMLServices\XMLServices\bin\XMLServices.dll.config
+C:\Users\srividhya\source\repos\XMLServices\XMLServices\bin\XMLServices.dll
+C:\Users\srividhya\source\repos\XMLServices\XMLServices\bin\XMLServices.pdb
+C:\Users\srividhya\source\repos\XMLServices\XMLServices\obj\Debug\XMLServices.csprojAssemblyReference.cache
+C:\Users\srividhya\source\repos\XMLServices\XMLServices\obj\Debug\XMLServices.csproj.CoreCompileInputs.cache
+C:\Users\srividhya\source\repos\XMLServices\XMLServices\obj\Debug\XMLServices.dll
+C:\Users\srividhya\source\repos\XMLServices\XMLServices\obj\Debug\XMLServices.pdb
