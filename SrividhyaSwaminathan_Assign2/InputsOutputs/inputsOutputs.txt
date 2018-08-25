@@ -1,0 +1,7 @@
+There are no inputs to the program
+
+1. the number of price change events, buffer size and no of retailers can be modified - 
+	-this can be done in the class myApplication by changing the appropriate variables
+	-buffersize must be greater than 0 and less than or equal to the no of retailers
+
+2. As mentioned in the Discussion Board,screenshorts of three different runs of the program is placed in the folders run1, run2, run3

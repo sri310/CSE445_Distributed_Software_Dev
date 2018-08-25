@@ -1,0 +1,6 @@
+C:\Users\srividhya\source\repos\eCommerce\eCommerce\bin\Release\eCommerce.exe.config
+C:\Users\srividhya\source\repos\eCommerce\eCommerce\bin\Release\eCommerce.exe
+C:\Users\srividhya\source\repos\eCommerce\eCommerce\bin\Release\eCommerce.pdb
+C:\Users\srividhya\source\repos\eCommerce\eCommerce\obj\Release\eCommerce.csproj.CoreCompileInputs.cache
+C:\Users\srividhya\source\repos\eCommerce\eCommerce\obj\Release\eCommerce.exe
+C:\Users\srividhya\source\repos\eCommerce\eCommerce\obj\Release\eCommerce.pdb

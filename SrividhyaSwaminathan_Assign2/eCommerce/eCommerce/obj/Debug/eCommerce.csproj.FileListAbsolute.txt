@@ -1,0 +1,7 @@
+C:\Users\srividhya\source\repos\eCommerce\eCommerce\bin\Debug\eCommerce.exe.config
+C:\Users\srividhya\source\repos\eCommerce\eCommerce\bin\Debug\eCommerce.exe
+C:\Users\srividhya\source\repos\eCommerce\eCommerce\bin\Debug\eCommerce.pdb
+C:\Users\srividhya\source\repos\eCommerce\eCommerce\obj\Debug\eCommerce.csproj.CoreCompileInputs.cache
+C:\Users\srividhya\source\repos\eCommerce\eCommerce\obj\Debug\eCommerce.exe
+C:\Users\srividhya\source\repos\eCommerce\eCommerce\obj\Debug\eCommerce.pdb
+C:\Users\srividhya\source\repos\eCommerce\eCommerce\obj\Debug\eCommerce.csprojAssemblyReference.cache
