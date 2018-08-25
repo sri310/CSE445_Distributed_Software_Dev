@@ -1,0 +1,10 @@
+C:\Users\srividhya\source\repos\locationBasedServices\locationBasedServices\obj\Debug\locationBasedServices.csproj.CoreCompileInputs.cache
+C:\Users\srividhya\source\repos\locationBasedServices\locationBasedServices\bin\locationBasedServices.dll.config
+C:\Users\srividhya\source\repos\locationBasedServices\locationBasedServices\bin\locationBasedServices.dll
+C:\Users\srividhya\source\repos\locationBasedServices\locationBasedServices\bin\locationBasedServices.pdb
+C:\Users\srividhya\source\repos\locationBasedServices\locationBasedServices\bin\Newtonsoft.Json.dll
+C:\Users\srividhya\source\repos\locationBasedServices\locationBasedServices\bin\Newtonsoft.Json.xml
+C:\Users\srividhya\source\repos\locationBasedServices\locationBasedServices\obj\Debug\locationBasedServices.csproj.CopyComplete
+C:\Users\srividhya\source\repos\locationBasedServices\locationBasedServices\obj\Debug\locationBasedServices.dll
+C:\Users\srividhya\source\repos\locationBasedServices\locationBasedServices\obj\Debug\locationBasedServices.pdb
+C:\Users\srividhya\source\repos\locationBasedServices\locationBasedServices\obj\Debug\locationBasedServices.csprojAssemblyReference.cache
