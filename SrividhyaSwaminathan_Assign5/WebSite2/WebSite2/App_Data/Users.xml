@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Users>
+  <User>
+    <username>admin1</username>
+    <password>TU27nBaqRiSI/pCTrwI27A==</password>
+    <role>staff level 1</role>
+  </User>
+  <User>
+    <username>admin2</username>
+    <password>q4IfUFbQl6WJtseoc+74FA==</password>
+    <role>staff level 1</role>
+  </User>
+  <User>
+    <username>admin3</username>
+    <password>3hv74Xg/Dqzi0tTT+jA9BQ==</password>
+    <role>staff level 2</role>
+  </User>
+  <User>
+    <username>admin4</username>
+    <password>YgGmDZaBiMzR4ydHHr0u7flgMQvu107o</password>
+    <role>staff level 2</role>
+  </User>
+</Users>

@@ -1,0 +1,6 @@
+C:\Users\srividhya\source\repos\SecureString\SecureString\bin\Debug\SecureString.dll
+C:\Users\srividhya\source\repos\SecureString\SecureString\bin\Debug\SecureString.pdb
+C:\Users\srividhya\source\repos\SecureString\SecureString\obj\Debug\SecureString.csprojAssemblyReference.cache
+C:\Users\srividhya\source\repos\SecureString\SecureString\obj\Debug\SecureString.csproj.CoreCompileInputs.cache
+C:\Users\srividhya\source\repos\SecureString\SecureString\obj\Debug\SecureString.dll
+C:\Users\srividhya\source\repos\SecureString\SecureString\obj\Debug\SecureString.pdb

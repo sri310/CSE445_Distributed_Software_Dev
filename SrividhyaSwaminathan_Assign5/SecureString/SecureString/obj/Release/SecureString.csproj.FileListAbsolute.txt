@@ -1,0 +1,5 @@
+C:\Users\srividhya\source\repos\SecureString\SecureString\bin\Release\SecureString.dll
+C:\Users\srividhya\source\repos\SecureString\SecureString\bin\Release\SecureString.pdb
+C:\Users\srividhya\source\repos\SecureString\SecureString\obj\Release\SecureString.csproj.CoreCompileInputs.cache
+C:\Users\srividhya\source\repos\SecureString\SecureString\obj\Release\SecureString.dll
+C:\Users\srividhya\source\repos\SecureString\SecureString\obj\Release\SecureString.pdb

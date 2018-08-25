@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Users>
+  <User>
+    <username>admin1</username>
+    <locations>
+      <location>85281</location>
+    </locations>
+    <searches>2</searches>
+  </User>
+  <User>
+    <username>srjvj</username>
+    <locations>
+      <location>95035</location>
+      <location>85287</location>
+    </locations>
+    <searches>4</searches>
+  </User>
+  <User>
+    <username>admin2</username>
+    <locations>
+      <location>75252</location>
+    </locations>
+    <searches>1</searches>
+  </User>
+</Users>

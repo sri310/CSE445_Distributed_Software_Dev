@@ -1,0 +1,21 @@
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.master" AutoEventWireup="true" CodeFile="latlng.aspx.cs" Inherits="latlng" %>
+
+<asp:Content ID="Content1" ContentPlaceHolderID="MainContent" Runat="Server">
+     <br />
+    <div><h3>Service Description: </h3>
+       This service returns the lattitude and longitude of any US zip code. 
+    </div><br />
+    <div>Url: http://webstrar61.fulton.asu.edu/Page1/Service1.svc?wsdl </div><br />
+    <div>Method Name: getLatLngService</div><br />
+    <div>Input: string zipcode</div><br />
+    <div>Output: String of format “{latitude},{longitude}”</div> <br />
+    <div>
+        <asp:TextBox ID="txtInputZipCode" runat="server" Width="300px" placeholder="Enter Zipcode"></asp:TextBox>
+        <asp:Button ID="btn_InvokeGLLS" runat="server" OnClick="btn_InvokeGLLS_Click" Text="Invoke" />
+        <br />
+    </div>
+    <div>
+        <asp:Label ID ="lblLatLong" runat="server"></asp:Label>
+    </div>
+</asp:Content>
+
