@@ -1,0 +1,9 @@
+C:\Users\srividhya\source\repos\electiveLocationServices\electiveLocationServices\bin\electiveLocationServices.dll.config
+C:\Users\srividhya\source\repos\electiveLocationServices\electiveLocationServices\bin\electiveLocationServices.dll
+C:\Users\srividhya\source\repos\electiveLocationServices\electiveLocationServices\bin\electiveLocationServices.pdb
+C:\Users\srividhya\source\repos\electiveLocationServices\electiveLocationServices\bin\Newtonsoft.Json.dll
+C:\Users\srividhya\source\repos\electiveLocationServices\electiveLocationServices\bin\Newtonsoft.Json.xml
+C:\Users\srividhya\source\repos\electiveLocationServices\electiveLocationServices\obj\Release\electiveLocationServices.csproj.CoreCompileInputs.cache
+C:\Users\srividhya\source\repos\electiveLocationServices\electiveLocationServices\obj\Release\electiveLocationServices.csproj.CopyComplete
+C:\Users\srividhya\source\repos\electiveLocationServices\electiveLocationServices\obj\Release\electiveLocationServices.dll
+C:\Users\srividhya\source\repos\electiveLocationServices\electiveLocationServices\obj\Release\electiveLocationServices.pdb

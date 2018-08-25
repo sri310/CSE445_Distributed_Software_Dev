@@ -1,0 +1,10 @@
+C:\Users\srividhya\source\repos\resfulStoreLocationService\resfulStoreLocationService\bin\resfulStoreLocationService.dll.config
+C:\Users\srividhya\source\repos\resfulStoreLocationService\resfulStoreLocationService\bin\resfulStoreLocationService.dll
+C:\Users\srividhya\source\repos\resfulStoreLocationService\resfulStoreLocationService\bin\resfulStoreLocationService.pdb
+C:\Users\srividhya\source\repos\resfulStoreLocationService\resfulStoreLocationService\obj\Debug\resfulStoreLocationService.csprojAssemblyReference.cache
+C:\Users\srividhya\source\repos\resfulStoreLocationService\resfulStoreLocationService\obj\Debug\resfulStoreLocationService.csproj.CoreCompileInputs.cache
+C:\Users\srividhya\source\repos\resfulStoreLocationService\resfulStoreLocationService\obj\Debug\resfulStoreLocationService.dll
+C:\Users\srividhya\source\repos\resfulStoreLocationService\resfulStoreLocationService\obj\Debug\resfulStoreLocationService.pdb
+C:\Users\srividhya\source\repos\resfulStoreLocationService\resfulStoreLocationService\bin\Newtonsoft.Json.dll
+C:\Users\srividhya\source\repos\resfulStoreLocationService\resfulStoreLocationService\bin\Newtonsoft.Json.xml
+C:\Users\srividhya\source\repos\resfulStoreLocationService\resfulStoreLocationService\obj\Debug\resfulStoreLocationService.csproj.CopyComplete
